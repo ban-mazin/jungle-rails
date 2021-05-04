@@ -43,9 +43,11 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
  
   gem 'rspec-rails', '~> 3.5'  
-  gem 'capybara'
-  gem 'poltergeist'
-  gem 'database_cleaner'
+  group :test do
+    gem 'capybara'
+    gem 'poltergeist'
+    gem 'database_cleaner'
+  end
   gem 'byebug'
   gem 'quiet_assets'
   gem 'dotenv-rails'
