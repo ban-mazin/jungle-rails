@@ -4,9 +4,9 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 # Screenshots
 
-![home page]()
-![cart page]()
-![details page]()
+![home page](https://github.com/ban-mazin/jungle-rails/blob/master/screenshots/homePage.png?raw=true)
+![cart page](https://github.com/ban-mazin/jungle-rails/blob/master/screenshots/cart.png?raw=true)
+![details page](https://github.com/ban-mazin/jungle-rails/blob/master/screenshots/details.png?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
